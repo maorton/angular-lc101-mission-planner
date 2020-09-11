@@ -1,0 +1,13 @@
+.box {
+    display: flex;
+    padding: 10px;
+}
+
+body {
+    padding: 10px;
+    background-image: url('https://thumbs.dreamstime.com/b/planet-earth-horizon-space-d-render-elements-image-furnished-nasa-43807112.jpg');
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
